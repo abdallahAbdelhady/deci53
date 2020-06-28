@@ -1,4 +1,4 @@
-name: test-app-53
+name: deci53
 version: 0.1
 summary: hello world
 description: |
@@ -13,8 +13,3 @@ parts:
     plugin: python
     python-version: python2
     source: .
-    
-
-apps:
-  test-app-53:
-    command: bin/test-app-53
